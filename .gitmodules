@@ -6,6 +6,9 @@
 	path = biobouncer
 	url = https://github.com/samuelbharti/biobouncer
 	subdir = pkg-r
+[submodule "biohttp"]
+	path = biohttp
+	url = https://github.com/samuelbharti/biohttp
 [submodule "peacock"]
 	path = peacock
 	url = https://github.com/samuelbharti/peacock
