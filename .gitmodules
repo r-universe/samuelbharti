@@ -16,3 +16,7 @@
 [submodule "peacock"]
 	path = peacock
 	url = https://github.com/samuelbharti/peacock
+[submodule "plotomics"]
+	path = plotomics
+	url = https://github.com/samuelbharti/plotomics
+	subdir = pkg-r
