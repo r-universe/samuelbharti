@@ -10,6 +10,10 @@
 	path = bioclients
 	url = https://github.com/samuelbharti/bioclients
 	subdir = pkg-r
+[submodule "biocohort"]
+	path = biocohort
+	url = https://github.com/samuelbharti/biocohort
+	subdir = pkg-r
 [submodule "biohttp"]
 	path = biohttp
 	url = https://github.com/samuelbharti/biohttp
