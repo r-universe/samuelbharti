@@ -17,6 +17,10 @@
 [submodule "biohttp"]
 	path = biohttp
 	url = https://github.com/samuelbharti/biohttp
+[submodule "bslibreact"]
+	path = bslibreact
+	url = https://github.com/samuelbharti/bslibreact
+	subdir = pkg-r
 [submodule "peacock"]
 	path = peacock
 	url = https://github.com/samuelbharti/peacock
